@@ -1,1 +1,1 @@
-# Voting-Smart-Contract
+# Lottery-Smart-Contract
